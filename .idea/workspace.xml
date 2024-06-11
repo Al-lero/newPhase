@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="209a2457-1bfa-43b0-bb55-48bc6e78c5f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/function_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/java_convertion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/java_convertion/automatic_bike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/java_convertion/bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/java_convertion/test_automatic_bike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_function_assigment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_js_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_stacks.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Al-lero" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2h8PzhFnJM1BzBMBPIkbYwuzqI0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_automatic_bike.MyTestCase.test_check_if_bike_can_turnOn.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_automatic_bike.MyTestCase.test_check_if_bike_can_turn_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_automatic_bike.MyTestCase.test_if_bike_can_accelerate.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_automatic_bike.MyTestCase.test_if_bike_can_accelerate_by_gear_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_add_every_third_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_average_of_all_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_collect_new_collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_create_union.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_duplicate_element_in_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_eliminate_duplicates_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_empty_dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_first_set_subset.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_get_length_of_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_list_of_ten_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_multiply_element_at_third_position.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_remove_item.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_sequential_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_show_length.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_smallest_and_highest_element_in_tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_smallest_element_in_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_sum_collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_sum_element_at_even_position.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_sum_element_at_odd_position.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_sum_first_middle_last_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_sum_tupel_even_position.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_function_assigment.MyTestCase.test_unpack_five_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_functions.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_functions.MyTestCase.test_function_throws_expection.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_functions.MyTestCase.test_string_in_a_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_functions.MyTestCase.test_to_check_length.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_query.QueryTestCase.test_if_query_can_add_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_query.QueryTestCase.test_if_query_can_remove_last_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_stacks.StackTestCase.test_stack_can_add_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_stacks.StackTestCase.test_that_stack_removes_last_in_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_function_assigment.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_functions.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_stacks.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function_assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.js_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\pythonFiles\tests" />
+      <recent name="C:\Users\USER\PycharmProjects\pythonFiles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_function_assigment.MyTestCase">
+    <configuration name="Python tests for test_function_assigment.MyTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonFiles" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_function_assigment.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_function_assigment.MyTestCase.test_empty_dictionary" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonFiles" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_function_assigment.MyTestCase.test_empty_dictionary&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_function_assigment.MyTestCase.test_smallest_and_highest_element_in_tuple" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonFiles" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_function_assigment.MyTestCase.test_smallest_and_highest_element_in_tuple&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_function_assigment.MyTestCase.test_sum_tupel_even_position" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonFiles" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_function_assigment.MyTestCase.test_sum_tupel_even_position&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_function_assigment.MyTestCase.test_unpack_five_element" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonFiles" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_function_assigment.MyTestCase.test_unpack_five_element&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_function_assigment.MyTestCase" />
+        <item itemvalue="Python tests.Python tests for test_function_assigment.MyTestCase.test_empty_dictionary" />
+        <item itemvalue="Python tests.Python tests for test_function_assigment.MyTestCase.test_unpack_five_element" />
+        <item itemvalue="Python tests.Python tests for test_function_assigment.MyTestCase.test_smallest_and_highest_element_in_tuple" />
+        <item itemvalue="Python tests.Python tests for test_function_assigment.MyTestCase.test_sum_tupel_even_position" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="209a2457-1bfa-43b0-bb55-48bc6e78c5f8" name="Changes" comment="" />
+      <created>1716972998812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716972998812</updated>
+      <workItem from="1716973026214" duration="5240000" />
+      <workItem from="1717175627199" duration="6633000" />
+      <workItem from="1717589558667" duration="17073000" />
+      <workItem from="1717682775144" duration="36000" />
+      <workItem from="1717682862663" duration="36000" />
+      <workItem from="1717837845182" duration="7951000" />
+      <workItem from="1717919708887" duration="24232000" />
+      <workItem from="1718056061322" duration="24000" />
+      <workItem from="1718056123196" duration="3148000" />
+      <workItem from="1718059321623" duration="9184000" />
+      <workItem from="1718104525270" duration="341000" />
+      <workItem from="1718106020296" duration="2050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonFiles$task.coverage" NAME="task Coverage Results" MODIFIED="1717598930331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/pythonFiles$atm.coverage" NAME="atm Coverage Results" MODIFIED="1718034751589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonFiles$function_assignment.coverage" NAME="function_assignment Coverage Results" MODIFIED="1718068188129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/pythonFiles$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1716978251074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/pythonFiles$js_task.coverage" NAME="js_task Coverage Results" MODIFIED="1717665821761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonFiles$assignment_function.coverage" NAME="assignment_function Coverage Results" MODIFIED="1718011345405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonFiles$.coverage" NAME=" Coverage Results" MODIFIED="1718068228201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/pythonFiles$task__1_.coverage" NAME="task (1) Coverage Results" MODIFIED="1716977745498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonFiles$bank.coverage" NAME="bank Coverage Results" MODIFIED="1718034196785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/java_convertion" />
+    <SUITE FILE_PATH="coverage/pythonFiles$try.coverage" NAME="try Coverage Results" MODIFIED="1716977820998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
